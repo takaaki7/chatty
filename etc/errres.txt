@@ -1,0 +1,15 @@
+#error response when message go out of 24 hour period
+https://messengerblog.com/bots/updated-messenger-platform-policies-and-faster-review-times/
+Requires pages_messaging_subscriptions permission to manage the object
+
+6 chatty-bot-staging app/web.1:  WARNING:root:Facebook send api error: {u'error': {u'code': 230,
+Jan 31 01:52:36 chatty-bot-staging app/web.1:              u'fbtrace_id': u'AAVppXp22Su',
+Jan 31 01:52:36 chatty-bot-staging app/web.1:              u'message': u'(#230) Requires pages_messaging_subscriptions permission to manage the object',
+Jan 31 01:52:36 chatty-bot-staging app/web.1:              u'type': u'OAuthException'}}
+Jan 31 01:57:37 chatty-bot-staging app/web.1:  INFO:root:Recived callback: {u'entry': [{u'id': u'344116719294273',
+Jan 31 01:57:37 chatty-bot-staging app/web.1:               u'messaging': [{u'postback': {u'payload': u'START'},
+Jan 31 01:57:37 chatty-bot-staging app/web.1:                               u'recipient': {u'id': u'344116719294273'},
+Jan 31 01:57:37 chatty-bot-staging app/web.1:                               u'sender': {u'id': u'1183739191739808'},
+Jan 31 01:57:37 chatty-bot-staging app/web.1:                               u'timestamp': 1485856656516}],
+Jan 31 01:57:37 chatty-bot-staging app/web.1:               u'time': 1485856656516}],
+Jan 31 01:57:37 chatty-bot-staging app/web.1:   u'object': u'page'}

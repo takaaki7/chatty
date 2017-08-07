@@ -1,0 +1,4 @@
+Generic single-database configuration.
+e.g.
+`alembic revision --autogenerate -m "add new column to user"`
+ `alembic upgrade head`

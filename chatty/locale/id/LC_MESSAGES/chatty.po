@@ -1,0 +1,141 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"POT-Creation-Date: 2017-01-14 03:24+JST\n"
+"PO-Revision-Date: 2017-01-14 03:24+JST\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+
+#: model.py:302
+msgid "Welcome to Chatty!"
+msgstr "Selamat datang di Chatty!"
+
+msgid "Chatty lets you chat and have fun with new people right now."
+msgstr "Chatty adalah layanan chat yang mengizinkanmu berkomunikasi secara anonim dengan orang asing dari seluruh dunia."
+
+msgid "Please sign in with Facebook. We don't post anything to Facebook."
+msgstr "Silakan masuk dengan akun Facebook. Kami tidak akan mengunggah apapun ke Facebook.\n"
+
+#: model.py:273
+msgid ""
+"You are not chatting with anyone. \n"
+"Do you want to start a new chat with someone new?"
+msgstr ""
+"Tak ada teman chat. \n"
+"Cari teman baru?"
+
+#: chatty/model.py:406
+msgid "Do you want to start a new chat?\n"
+"Each other's profile picture will be shared when matched with someone new."
+msgstr "Cari teman chat?\n"
+"Foto profil setiap pengguna akan dibagikan kepada pengguna baru yang cocok."
+
+#: chatty/model.py:420
+msgid ""
+"Finding someone you can chat with..."
+msgstr ""
+"Mencari teman baru...\n"
+
+msgid ""
+"You're now chatting with someone new!\n"
+msgstr ""
+"Menemukan teman baru! \n"
+
+msgid "Choose 'Menu' from the menu '≡' in the corner or tap the button bellow to terminate your conversation."
+msgstr "Pilih tombol di bawah untuk mengakhiri chat"
+
+#: chatty/model.py:451
+msgid ""
+"Finding someone new...\n"
+"Want to interrupt searching?"
+msgstr ""
+"Sedang mencari teman baru.\n"
+"Batalkan?"
+
+#: ../chatty/model.py:249
+msgid "Sending failed. Try it again later."
+msgstr "Gagal mengirim. Cobalah beberapa saat lagi."
+
+#: model.py:455
+msgid "Do you want to cancel searching?"
+msgstr "Batalkan pencarian?"
+
+#: chatty/model.py:462
+msgid "Searching interrupted."
+msgstr "Pencarian dibatalkan."
+
+#: model.py:522 model.py:525
+msgid "This message type is not supported."
+msgstr "Jenis pesan ini tidak didukung."
+
+#: chatty/model.py:485
+msgid "End Chat?"
+msgstr "Akhiri chat?"
+
+#: chatty/model.py:498
+msgid "Chat ended."
+msgstr "Chat diakhiri."
+
+#: chatty/model.py:500
+msgid "Stranger has disconnected."
+msgstr "Teman telah mengakhiri chat."
+
+
+#: model.py:431 model.py:459
+msgid "Interrupt searching"
+msgstr "Batalkan pencarian"
+
+#: model.py:546
+msgid "New Chat"
+msgstr "Cari teman baru"
+
+msgid "How To Start a New Chat"
+msgstr "Bagaimana untuk memulai obrolan baru"
+
+#: model.py:278 model.py:306 model.py:342
+msgid "Find new partner"
+msgstr "Cari teman baru"
+
+#: model.py:312 model.py:349
+msgid "Select language"
+msgstr "Atur bahasa"
+
+#: chatty/model.py:485
+msgid "End Chat"
+msgstr "Akhiri chat"
+
+#: chatty/model.py:486
+msgid "End"
+msgstr "Akhiri chat"
+
+msgid "Changes saved."
+msgstr "Perubahan disimpan"
+
+
+msgid "Share Your Profile"
+msgstr "Bagikan profil"
+
+msgid "Send a link to your Facebook profile?"
+msgstr "Ingin berbagi tautan ke profil Facebook-mu?"
+
+msgid "Send"
+msgstr "Bagikan"
+
+msgid "Profile shared."
+msgstr "Pengguna telah membagikan profilnya."
+
+msgid "Shared."
+msgstr "Dibagikan."
+
+msgid "View Profile"
+msgstr "Tampilkan profil"

@@ -1,0 +1,75 @@
+#set environment var with X_ prefix like X_CHATTY_DOCKER_USERNAME=... as wercker spec.
+box: heroku/python
+
+build:
+  steps:
+
+#wercker dev --publish 8080
+dev:
+  steps:
+    - script:
+        name: "Wait for postgres connection"
+        code: |-
+          while ! nc -q 1 $POSTGRES_PORT_5432_TCP_ADDR $POSTGRES_PORT_5432_TCP_PORT </dev/null; do sleep 3; done
+    - script:
+        name: init db
+        code: |-
+         . env/.env.Dev
+         sh settings/initdb.sh
+    - internal/watch:
+        code: |-
+          . env/.env.Dev
+          python chatty/server.py
+        reload: true
+
+# wercker dev --pipeline dev-test
+dev-test:
+  steps:
+    - script:
+        name: "Wait for postgres connection"
+        code: |-
+          while ! nc -q 1 $POSTGRES_PORT_5432_TCP_ADDR $POSTGRES_PORT_5432_TCP_PORT </dev/null; do sleep 3; done
+    - script:
+        name: show env
+        code: env
+    - script:
+        name: init db
+        code: |-
+         . env/werckerenv
+         sh settings/initdb.sh
+    - internal/watch:
+        code: |-
+          export MOCK_FB=TRUE
+          PYTHONPATH=/pipeline/source/ tox
+        reload: true
+
+push-container:
+  steps:
+    - script:
+        name: virtualenv install
+        code: |
+          pip install virtualenv
+    - virtualenv:
+        name: setup virtual env
+        python_location: /usr/bin/python2.7
+    - pip-install:
+        requirements_file: requirements/dev.txt
+    - internal/docker-push:
+        username: $CHATTY_DOCKER_USERNAME
+        password: $CHATTY_DOCKER_PASSWORD
+        tag: 20170528
+        repository: takaaki7/chatty
+        registry: https://registry.hub.docker.com/
+
+deploy:
+  steps:
+    - heroku-deploy:
+        install-toolbelt: true
+        key: $HEROKU_KEY
+        key-name: HEROKU_SSH_KEY
+        user: $HEROKU_USER
+        app-name: $HEROKU_APP_NAME
+    - script:
+        name: Update database
+        code: |
+          heroku run sh settings/initdb.sh --app $HEROKU_APP_NAME

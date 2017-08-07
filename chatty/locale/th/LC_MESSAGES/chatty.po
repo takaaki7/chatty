@@ -1,0 +1,122 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"POT-Creation-Date: 2017-01-14 03:24+JST\n"
+"PO-Revision-Date: 2017-01-14 03:24+JST\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+
+#: model.py:302
+msgid "Welcome to Chatty!"
+msgstr "ยินดีต้อนรับสู่ Chatty!"
+
+msgid "Chatty lets you chat and have fun with new people right now."
+msgstr "Chatty เป็นบริการแชทที่จะทำให้คุณสามารถพูดคุยกับคนที่ไม่รู้จักในทั่วโลกได้อย่างปลอดภัยโดยที่ชื่อของคุณจะถูกปกปิดเอาไว้"
+
+msgid ""
+"Please sign in with Facebook. We don't post anything to Facebook."
+msgstr ""
+"กรุณาลงชื่อเข้าใช้ด้วย Facebook เราจะไม่โพสต์อะไรลงใน Facebook ของคุณ\n"
+"การลงชื่อเข้าใช้แสดงว่าคุณยอมรับนโยบายความเป็นส่วนตัวของเรา"
+
+#: model.py:273
+msgid ""
+"You are not chatting with anyone. \n"
+"Do you want to start a new chat with someone new?"
+msgstr ""
+"ยังไม่มีเพื่อนที่จะสนทนา \n"
+"คุณต้องการค้นหาเพื่อนใหม่หรือไม่"
+
+#: chatty/model.py:406
+msgid "Do you want to start a new chat?\n"
+"Each other's profile picture will be shared when matched with someone new."
+msgstr "คุณต้องการเริ่มแชทใหม่หรือไม่?\n"
+"เมื่อจับคู่กับผู้ใช้คนใหม่ จะมีการแชร์รูปโปรไฟล์ของกันและกัน"
+
+#: chatty/model.py:420
+msgid ""
+"Finding someone you can chat with..."
+msgstr ""
+"กำลังค้นหาเพื่อนใหม่...\n"
+
+msgid ""
+"You're now chatting with someone new!\n"
+msgstr ""
+"พบเพื่อนใหม่แล้ว!\n"
+
+msgid "Choose 'Menu' from the menu '≡' in the corner or tap the button bellow to terminate your conversation."
+msgstr "เลือกปุ่มข้างล่างนี้เมื่อต้องการจบการสนทนา"
+
+#: chatty/model.py:451
+msgid ""
+"Finding someone new...\n"
+"Want to interrupt searching?"
+msgstr ""
+"กำลังค้นหาเพื่อนใหม่\n"
+"จะหยุดการค้นหาหรือไม่"
+
+#: ../chatty/model.py:249
+msgid "Sending failed. Try it again later."
+msgstr "ไม่สามารถส่งข้อความได้ ขอให้ลองใหม่ในอีกสักพัก"
+
+#: model.py:455
+msgid "Do you want to cancel searching?"
+msgstr "คุณต้องการหยุดการค้นหาหรือไม่"
+
+#: chatty/model.py:462
+msgid "Searching interrupted."
+msgstr "หยุดการค้นหาแล้ว"
+
+#: model.py:522 model.py:525
+msgid "This message type is not supported."
+msgstr "ไม่สนับสนุนชนิดของข้อความนี้"
+
+#: chatty/model.py:485
+msgid "End Chat?"
+msgstr "จบการสนทนาหรือไม่"
+
+#: chatty/model.py:498
+msgid "Chat ended."
+msgstr "จบการสนทนา"
+
+#: chatty/model.py:500
+msgid "Stranger has disconnected."
+msgstr "เพื่อนของคุณได้ขอจบการสนทนา"
+
+#: model.py:431 model.py:459
+msgid "Interrupt searching"
+msgstr "หยุดการค้นหา"
+
+#: model.py:546
+msgid "New Chat"
+msgstr "ค้นหาคู่สนทนาใหม่"
+
+#: model.py:278 model.py:306 model.py:342
+msgid "Find new partner"
+msgstr "ค้นหาคู่สนทนาใหม่"
+
+#: model.py:312 model.py:349
+msgid "Select language"
+msgstr "เลือกภาษา"
+
+#: chatty/model.py:485
+msgid "End Chat"
+msgstr "จบการสนทนา"
+
+#: chatty/model.py:486
+msgid "End"
+msgstr "จบการสนทนา"
+
+#: chatty/model.py:500
+msgid "Changes saved."
+msgstr "บันทึกการเปลี่ยนแปลงแล้ว"

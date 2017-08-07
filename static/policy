@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title> Privacy Policy of Chatty</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+          crossorigin="anonymous">
+    <link rel="stylesheet" href="/public/jscss/chatty.css">
+    <link rel="stylesheet" href="/public/jscss/blueimp-gallery.min.css">
+    <link rel="stylesheet" href="/public/jscss/font.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:title" content="Privacy Policy of Chatty">
+    <meta property="og:image" content="">
+    <meta property="og:description" content="">
+    <meta name="description" content=" ">
+</head>
+<body id="bs-override">
+
+<div id="wrap">
+    <div id="main" class="container-fluid clear-top">
+        <div class="voffset5"></div>
+        <div class="row">
+            <div class="col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3">
+                <div class="title-text">Privacy Policy of Chatty</div>
+                <p><strong>Last Updated: Oct. 15, 2016</strong></p>
+                <p>* in the below, calls "you or your authorized child" as "User".
+                <p>Protecting User's privacy is really important to us (“<strong>Chatty</strong>,” “<strong>we</strong>,” “<strong>our</strong>,” or “<strong>us</strong>”).
+                    With this in mind, we’re providing this Privacy Policy to explain our practices regarding the collection, use, and disclosure of information
+                    that we receive through our services (Chatty, chatting services), which are accessible via Facebook Messenger.
+                    Our website is located at <a href="https://www.chatty.top/">https://www.chatty.top</a>.
+                    This Privacy Policy does not apply to any third party websites, services, or applications, even if they are accessible through any of our Services.</p>
+                <p><strong>1. REVISIONS TO THIS PRIVACY POLICY</strong></p>
+                <p><strong>ANY INFORMATION THAT IS COLLECTED VIA OUR SERVICES IS COVERED BY THE PRIVACY POLICY IN EFFECT AT THE TIME SUCH INFORMATION IS COLLECTED.
+                    WE MAY REVISE THIS PRIVACY POLICY FROM TIME TO TIME. IF WE MAKE ANY MATERIAL CHANGES TO THIS PRIVACY POLICY,
+                    INCLUDING ANY CHANGE THAT WE PROPOSE THAT WILL HAVE RETROACTIVE EFFECT,
+                    WE’LL NOTIFY YOU OF THOSE CHANGES BY POSTING THEM ON OUR WEBSITE.</strong></p>
+                <p><strong>2. COLLECTION AND USE OF INFORMATION</strong></p>
+                <p>a. <span class="underline">Information Collected or Received from User</span>.</p>
+                <p>Our primary goals in collecting information are to provide and improve our Services,
+                    to administer User's use of the Services,
+                    and to enable User to enjoy and easily navigate our Services.</p>
+                <p>Our services are under the service of Facebook and/or Facebook Messenger and/or Facebook Messenger Platform,
+                    so User must have accepted those conditions (e.g. Privacy Policy, Terms of Conditions, etc.).
+                    Our services is under Facebook Messenger Platform directly, and only in there,
+                    and then there is no directly connection to/from the outside at all.</p>
+                <p>i. <span class="underline">Account Information</span>.</p>
+                <p>During using our services, we use your account information of Facebook and/or Facebook Messenger and/or Facebook Messenger Platform.
+                    We just use the information to provide our services only.</p>
+                <p>ii. <span class="underline">Chatting Information</span>.</p>
+                <p>During chatting on our services, we will NOT collect any messages you send, just transfering them to your chat mate only.
+                    Exclude of the case to debug or improve our services, to use it for debugging or improvement purpose only.</p>
+
+                <p>b. <span class="underline"> Information Collected Using Cookies and other Web Technologies </span>.</p>
+                <p>Like many website owners and operators, we use automated data collection tools such as Cookies and Web Beacons to collect certain information on our services.</p>
+                <p>“<strong>Cookies</strong>” are small text files that are placed on your hard drive by a Web server when User access our Services.
+                    We may NOT use neither session information nor cookies DIRECTLY although,
+                    Facebook services may possiblly to use session Cookies and/or persistent Cookies to identify that User have logged in
+                    to the Services and to tell us how and when User interact with our Services.
+                    We just use the information from Facebook Messenger Platform only.
+                    We may also possiblly to use the information to aggregate statistical information.</p>
+
+                <p>c. <span class="underline"> Information Related to Use of the Services</span>.</p>
+                <p>Our servers automatically record certain information about how a person uses our Services (we refer to this information as “<strong>Log Data</strong>”),
+                    Log Data may include information such as a account ID, accessing time, etc.
+                    We use the Log Data for improvement or debugging our services only.
+                    We do NOT aggregate private information such as your conversation although,
+                    we may possiblly to aggregate statistical information such as chatting language, time, etc., without identifical information.</p>
+
+                <p><strong>3. THE SECURITY OF YOUR INFORMATION</strong></p>
+                <p>We take appropriate administrative, physical, and electronic measures designed to protect the information that we collect from or about User
+                    from accidental or unlawful destruction, accidental loss or unauthorized access, use, modification, interference, or disclosure.
+                    Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure.
+                    Accordingly, we cannot guarantee the absolute security of any information.</p>
+
+                <p><strong>4. LINKS TO OTHER SITES</strong></p>
+                <p>Our Services may contain links to websites and services that are owned or operated by third parties (each, a “<strong>Third Party Service</strong>”).
+                    Any information that User provide on or to a Third Party Service or that is collected
+                    by a Third Party Service (including Google, Facebook) is provided directly to the owner or operator of the Third Party Service
+                    and is subject to the owner’s or operator’s privacy policy.
+                    We’re not responsible for the content, privacy, or security practices and policies of any Third Party Service.
+                    To protect User's information we recommend that you carefully review the privacy policies of all Third Party Service
+                    that User access via our Services.</p>
+
+                <p><strong>5. TRACKING</strong></p>
+                <p>If we need to track the bad mannered, illegal in law, or etc., possiblly to track / trace the ID or information of the ID to investigate.
+                    This is for our services to keep it better, and to avoid bad feelings for you also.</p>
+
+                <p><strong>6. Questions</strong></p>
+                <p>Please contact us to <a href="mailto:chattyfbm@gmail.com">chattyfbm@gmail.com</a> if you have any questions about our Privacy Policy.</p>
+
+                <p><strong>7. Emails</strong></p>
+                <p>Emails or any communication to us will be possiblly to store, record or collect for answer to you or for solve the problem although,
+                    we do NOT use the information for any other kind of purpose. And then we keep mind to do not leak any bit of them.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<footer class="footer text-center">
+    <div id="copyright" class="row">
+        Copyright © 2017 <a href="/">Chatty</a> All Rights Reserved.
+    </div>
+</footer>
+
+</body>
+</html>

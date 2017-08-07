@@ -1,0 +1,213 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"POT-Creation-Date: 2017-01-14 03:24+JST\n"
+"PO-Revision-Date: 2017-01-14 03:24+JST\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+#: ../chatty/model.py:249
+msgid "Sending failed. Try it again later."
+msgstr "La transmisión ha fallado. Espera un poco y vuelve a intentarlo."
+
+
+#: model.py:522 model.py:525
+msgid "This message type is not supported."
+msgstr "Este tipo de mensaje no es compatible."
+
+#: model.py:278 model.py:306 model.py:342
+msgid "Find new partner"
+msgstr "Buscar nuevo interlocutor"
+
+#: model.py:312 model.py:349
+msgid "Select language"
+msgstr "Configurar idiomas"
+
+msgid "Please sign in with Facebook. We don't post anything to Facebook."
+msgstr "Inicia sesión con Facebook. No publicaremos nada en Facebook.\n"
+
+#: model.py:273
+msgid ""
+"You are not chatting with anyone. \n"
+"Do you want to start a new chat with someone new?"
+msgstr ""
+"No estás conversando con nadie.\n"
+"¿Busco a un nuevo interlocutor?"
+
+#: model.py:546
+msgid "New Chat"
+msgstr "Buscar nuevo interlocutor"
+
+#: model.py:302
+msgid "Welcome to Chatty!"
+msgstr "¡Bienvenido a Chatty!"
+
+msgid "Chatty lets you chat and have fun with new people right now."
+msgstr "Chatty es un servicio de chat con el que puedes disfrutar comunicándote de forma segura y anónima con personas desconocidas de todo el mundo."
+
+#: chatty/model.py:406
+msgid "Do you want to start a new chat?\n"
+"Each other's profile picture will be shared when matched with someone new."
+msgstr "¿Quieres comenzar un chat nuevo?\n"
+"Al coincidir con alguien nuevo, las fotos de perfil de ambos se compartirán."
+
+#: chatty/model.py:420
+msgid ""
+"Finding someone you can chat with..."
+msgstr ""
+"Estoy buscando a un nuevo interlocutor..."
+
+msgid ""
+"You're now chatting with someone new!\n"
+msgstr ""
+"¡He encontrado a un nuevo interlocutor!"
+
+msgid "Choose 'Menu' from the menu '≡' in the corner or tap the button bellow to terminate your conversation."
+msgstr "Para terminar la conversación, selecciona el botón de abajo."
+
+#: chatty/model.py:451
+msgid ""
+"Finding someone new...\n"
+"Want to interrupt searching?"
+msgstr ""
+"Buscando nuevo interlocutor.\n"
+"¿Interrumpir?"
+
+#: model.py:431 model.py:459
+msgid "Interrupt searching"
+msgstr "Interrumpir búsqueda"
+
+#: model.py:455
+msgid "Do you want to cancel searching?"
+msgstr "¿Interrumpir la búsqueda?"
+
+#: chatty/model.py:462
+msgid "Searching interrupted."
+msgstr "Se ha interrumpido la búsqueda."
+
+#: model.py:522 model.py:525
+msgid "This message type is not supported."
+msgstr "Este tipo de mensaje no es compatible."
+
+#: chatty/model.py:485
+msgid "End Chat?"
+msgstr "¿Terminar la conversación?"
+
+#: chatty/model.py:485
+msgid "End Chat"
+msgstr "Terminar conversación"
+
+#: chatty/model.py:486
+msgid "End"
+msgstr "Terminar conversación"
+
+
+#: chatty/model.py:498
+msgid "Chat ended."
+msgstr "Has terminado la conversación."
+
+#: chatty/model.py:500
+msgid "Stranger has disconnected."
+msgstr "El interlocutor ha terminado la conversación."
+
+#: chatty/model.py:500
+msgid "Changes saved."
+msgstr "Cambios guardados"
+
+msgid "Loading..."
+msgstr "Cargando..."
+
+msgid "To start new chat, please wait {hours} hours and {minutes} minutes or check how to start right now by clicking this button."
+msgstr "Para comenzar un chat nuevo, por favor espera {hours} horas y {minutes} minuto o descubre cómo comenzar ahora mismo haciendo clic en este botón."
+
+msgid "Thank you for using Chatty."
+msgstr "Gracias por usar Chatty."
+
+msgid "To start a new chat, please wait {hours} hours and {minutes} minutes, or answer a survey."
+msgstr "Para comenzar un chat nuevo, por favor espera {hours} horas y {minutes} minutos, o responde a una encuesta."
+
+msgid"The survey should only take a couple of minutes of your time."
+msgstr "La encuesta sólo tomará un par de minutos de tu tiempo."
+
+
+msgid "Now You can start a new chat!"
+msgstr "¡Ya puedes empezar un nuevo chat!"
+
+msgid "If you like Chatty, please share."
+msgstr "Si te gusta Chatty, por favor comparte."
+
+msgid "Answer a Survey"
+msgstr "Responde a una encuesta"
+
+msgid "Check"
+msgstr "Descubre"
+
+msgid "Close"
+msgstr "Cerrar"
+
+
+msgid "Men"
+msgstr "Hombres"
+
+msgid "Women"
+msgstr "Mujer"
+
+msgid "I want to find..."
+msgstr "Quiero encontrar..."
+
+msgid "Discovery Settings"
+msgstr "Explorar Configuración"
+
+
+msgid "Share Your Profile"
+msgstr "Compartir perfil"
+
+msgid "Send a link to your Facebook profile?"
+msgstr "Souhaitez-vous envoyer un lien vers votre profil Facebook ?"
+
+msgid "Send"
+msgstr "Envoyer"
+
+msgid "Profile shared."
+msgstr "Profil partagé."
+
+msgid "Shared."
+msgstr "Partagé."
+
+msgid "View Profile"
+msgstr "Voir le profil"
+
+
+msgid ""
+"Not enough points, please purchase more.\n"
+"Selecting a gender preference require points.(10 points per use)"
+msgstr""
+"No dispone de puntos suficientes, compre más.\n"
+"Para seleccionar una preferencia de género necesita puntos. (10 puntos por uso)"
+
+msgid "Purchase Points"
+msgstr "Comprar puntos"
+
+msgid "By purchasing points, you can select the gender of the people you want to talk with."
+msgstr "Si compra puntos podrá seleccionar el sexo de la persona con la que desee hablar."
+
+msgid "Your payment failed. Please try again later. If the problem persists, please contact us at https://m.me/ChattySupport"
+msgstr "Su pago no ha sido aceptado. Inténtelo de nuevo más tarde. Si el problema continúa, puede ponerse en contacto con nosotros en https://m.me/ChattySupport"
+
+msgid "Payment failed due to expiration of token. Please refresh your web browser and then try again."
+msgstr "El pago no ha sido aceptado por el vencimiento de la señal. Reinicie el navegador y vuelva a intentarlo de nuevo."
+
+msgid ""
+"Please check whether the credit card information that you entered is incorrect, or your credit limit has been exceeded.\n"
+"If there are no mistakes in your input, and the same error still appears after you have tried again, then please contact your credit card company."
+msgstr ""
+"Compruebe si la información de la tarjeta de crédito introducida es incorrecta o si ha sobrepasado su límite de crédito.\n"
+"Si no hay errores en la introducción de los datos y sigue apareciendo el mismo error tras haberlo intentado de nuevo, contacte con la entidad que le ha expedido la tarjeta de crédito."

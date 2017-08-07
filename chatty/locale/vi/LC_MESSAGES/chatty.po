@@ -1,0 +1,181 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"POT-Creation-Date: 2017-01-14 03:24+JST\n"
+"PO-Revision-Date: 2017-01-14 03:24+JST\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+
+#: model.py:302
+msgid "Welcome to Chatty!"
+msgstr "Chào mừng bạn đến với Chatty!"
+
+msgid "Chatty lets you chat and have fun with new people right now."
+msgstr "Chatty là một dịch vụ trò chuyện giúp bạn tận hưởng việc giao tiếp với người lạ trên toàn thế giới một cách an toàn."
+
+msgid "Sign up completed"
+msgstr "Đăng ký hoàn thành!"
+
+#: model.py:273
+msgid ""
+"You are not chatting with anyone. \n"
+"Do you want to start a new chat with someone new?"
+msgstr ""
+"Hiện tại bạn không nói chuyện với ai.\n"
+"Bạn có muốn bắt đầu một cuộc trò chuyện mới với một người lạ?"
+
+#: chatty/model.py:406
+msgid "Do you want to start a new chat?\n"
+"Each other's profile picture will be shared when matched with someone new."
+msgstr "Bạn có muốn bắt đầu một cuộc trò chuyện mới với một người lạ?"
+"Ảnh tiểu sử của nhau sẽ được chia sẻ khi kết hợp với một người mới."
+
+#: chatty/model.py:420
+msgid ""
+"Finding someone you can chat with..."
+msgstr ""
+"Đang chờ đợi ai đó để bạn có thể trò chuyện cùng..."
+
+msgid ""
+"You're now chatting with someone new!\n"
+"Choose 'Menu' from the menu '≡' in the corner or tap the button bellow to terminate your conversation."
+msgstr ""
+"Hiện giờ bạn đang trò chuyện với một người lạ! \n"
+"Nhấp vào nút bên dưới để chấm dứt cuộc hội thoại của bạn."
+
+#: chatty/model.py:451
+msgid ""
+"Finding someone new...\n"
+"Want to interrupt searching?"
+msgstr ""
+"Đang tìm người mới..."
+"Bạn muốn hủy tìm kiếm?"
+
+#: ../chatty/model.py:249
+msgid "Sending failed. Try it again later."
+msgstr "Không gửi được. Thử lại sau."
+
+#: model.py:455
+msgid "Do you want to cancel searching?"
+msgstr "Bạn muốn hủy tìm kiếm?"
+
+#: chatty/model.py:462
+msgid "Searching interrupted."
+msgstr "Đã hủy tìm kiếm."
+
+#: model.py:522 model.py:525
+msgid "This message type is not supported."
+msgstr "Loại tin nhắn này không được hỗ trợ."
+
+#: chatty/model.py:485
+msgid "End Chat?"
+msgstr "Kết thúc Cuộc trò chuyện?"
+
+#: chatty/model.py:498
+msgid "Chat ended."
+msgstr "Đã kết thúc cuộc trò chuyện."
+
+#: chatty/model.py:500
+msgid "Stranger has disconnected."
+msgstr "Người lạ đã hủy kết nối."
+
+msgid ""
+"If the person you chatted with was a malicious user,"
+" you can report them via the [Report] button."
+msgstr "Nếu người mà bạn nói chuyện cùng là một người dùng nguy hại, bạn có thể báo cáo người đó bằng nút [Báo cáo]."
+
+
+msgid ""
+"Your Chatty account has been suspended"
+" due to malicious activity."
+"If you think this account was suspended incorrectly,"
+" please contact https://m.me/ChattySupport"
+msgstr ""
+"Tài khoản Chatty của bạn đã bị đình chỉ do hoạt động nguy hại."
+"Nếu bạn nghĩ rằng tài khoản này đã bị đình chỉ không chính xác, vui lòng liên hệ https://m.me/ChattySupport"
+
+msgid "Loading..."
+msgstr "Đang tải..."
+
+msgid "To start new chat, please wait {hours} hours and {minutes} minutes or check how to start right now by clicking this button."
+msgstr "Để bắt đầu cuộc trò chuyện mới, vui lòng đợi {hours} giờ {minutes} phút hoặc xem cách thức bắt đầu ngay bây giờ bằng cách nhấp vào nút này."
+
+msgid "Thank you for using Chatty."
+msgstr "Cảm ơn bạn đã sử dụng Chatty."
+
+msgid "To start a new chat, please wait {hours} hours and {minutes} minutes, or answer a survey."
+msgstr "Để bắt đầu cuộc trò chuyện mới, vui lòng đợi {hours} giờ {minutes} phút, hoặc trả lời một bản khảo sát."
+
+msgid"The survey should only take a couple of minutes of your time."
+msgstr"Bạn sẽ chỉ mất vài phút để thực hiện khảo sát."
+
+msgid "Now You can start a new chat!"
+msgstr "Bây giờ Bạn có thể bắt đầu cuộc trò chuyện mới!"
+
+msgid "If you like Chatty, please share."
+msgstr "Nếu bạn thích Chatty, xin hãy chia sẻ nhé."
+
+msgid "Answer a Survey"
+msgstr "Trả lời Khảo sát"
+
+msgid "Check"
+msgstr "Xem"
+
+msgid "Report"
+msgstr "Báo cáo"
+
+#: model.py:431 model.py:459
+msgid "Interrupt searching"
+msgstr "Hủy tìm kiếm"
+
+#: model.py:546
+msgid "New Chat"
+msgstr "Cuộc trò chuyện Mới"
+
+msgid "How To Start a New Chat"
+msgstr "Cách bắt đầu cuộc trò chuyện mới"
+
+#: model.py:278 model.py:306 model.py:342
+msgid "Find new partner"
+msgstr "Tìm một người lạ mới"
+
+#: model.py:312 model.py:349
+msgid "Select language"
+msgstr "Chọn ngôn ngữ"
+
+#: chatty/model.py:485
+msgid "End Chat"
+msgstr "Kết thúc Cuộc trò chuyện"
+
+#: chatty/model.py:486
+msgid "End"
+msgstr "Kết thúc Cuộc trò chuyện"
+
+#: chatty/model.py:500
+msgid "Changes saved."
+msgstr "Đã lưu thay đổi"
+
+msgid "Close"
+msgstr "Đóng"
+
+msgid "Men"
+msgstr "Đàn ông"
+
+msgid "Women"
+msgstr "Đàn bà"
+
+msgid "I want to find..."
+msgstr "Tôi muốn tìm..."
+
+msgid "Discovery Settings"
+msgstr "Cài đặt"

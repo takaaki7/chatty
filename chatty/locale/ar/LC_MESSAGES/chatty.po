@@ -1,0 +1,250 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"POT-Creation-Date: 2017-01-14 03:24+JST\n"
+"PO-Revision-Date: 2017-01-14 03:24+JST\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+
+#: model.py:302
+msgid "Welcome to Chatty!"
+msgstr "مرحباً بك في Chatty!"
+
+msgid "Chatty lets you chat and have fun with new people right now."
+msgstr "يمكنك من خلال Chatty الدردشة وقضاء وقت ممتع مع أناس جدد على الفور."
+
+msgid "LOG IN WITH FACEBOOK"
+msgstr "تسجيل الدخول باستخدام FACEBOOK"
+
+msgid "Please sign in with Facebook. We don't post anything to Facebook."
+msgstr "يُرجى تسجيل الدخول باستخدام الفيسبوك. إنّنا لا نقوم بنشر أي شيء على الفيسبوك."
+
+msgid "Privacy Policy"
+msgstr "سياسة الخصوصية"
+
+msgid "Sign up completed! Click the Settings button to set discovery settings."
+msgstr "اكتمل الاشتراك! انقر زر الإعداد الإعدادات إعدادات الاكتشاف"
+
+
+#: model.py:273
+msgid ""
+"You are not chatting with anyone. \n"
+"Do you want to start a new chat with someone new?"
+msgstr ""
+"إنك لا تقوم بالدردشة من أي شخص. \n"
+"هل تريد بدء محادثة جديدة مع شخص غريب؟"
+
+#: chatty/model.py:406
+msgid "Do you want to start a new chat?\n"
+"Each other's profile picture will be shared when matched with someone new."
+msgstr "هل تريد بدء دردشة جديدة؟"
+"ستتم مشاركة صورة الملف الشخصي لكل منكما عند التطابق مع شخص جديد."
+
+#: chatty/model.py:420
+msgid ""
+"Finding someone you can chat with..."
+msgstr ""
+"في انتظار شخص ما يمكنك الدردشة معه... \n"
+
+msgid ""
+"You're now chatting with someone new!\n"
+msgstr ""
+"إنك الآن تقوم بالدردشة مع شخص غريب! \n"
+
+msgid "Choose 'Menu' from the menu '≡' in the corner or tap the button bellow to terminate your conversation."
+msgstr "اضغط على الزر أدناه لإنهاء محادثتك."
+
+#: chatty/model.py:451
+msgid ""
+"Finding someone new...\n"
+"Want to interrupt searching?"
+msgstr ""
+"جاري البحث عن شخص ما جديد... \n"
+"هل تريد إلغاء عملية البحث؟"
+
+#: ../chatty/model.py:249
+msgid "Sending failed. Try it again later."
+msgstr "لقد فشل الإرسال. قُم بإعادة المحاولة في وقتٍ لاحق."
+
+#: model.py:455
+msgid "Do you want to cancel searching?"
+msgstr "هل تريد إلغاء عملية البحث؟"
+
+#: chatty/model.py:462
+msgid "Searching interrupted."
+msgstr "لقد تم إلغاء البحث"
+
+#: model.py:522 model.py:525
+msgid "This message type is not supported."
+msgstr "نوع هذه الرسالة غير مدعوم."
+
+#: chatty/model.py:485
+msgid "End Chat?"
+msgstr "هل تريد إنهاء الدردشة؟"
+
+#: chatty/model.py:498
+msgid "Chat ended."
+msgstr "لقد تم إنهاء الدردشة."
+
+#: chatty/model.py:500
+msgid "Stranger has disconnected."
+msgstr "لقد قام الشخص الغريب بقطع الاتصال."
+
+msgid ""
+"If the person you chatted with was a malicious user,"
+" you can report them via the [Report] button."
+msgstr "إذا كان الشخص الذي أجريت دردشة معه هو أحد المتطفلين، يمكنك الإبلاغ عنه من خلال زر [إبلاغ]."
+
+msgid ""
+"Your Chatty account has been suspended"
+" due to malicious activity."
+"If you think this account was suspended incorrectly,"
+" please contact https://m.me/ChattySupport"
+msgstr ""
+"تم تعليق حساب Chatty الخاص بك بسبب وجود أنشطة ضارة."
+" إذا كنت تعتقد أن حسابك تم تعليقه عن طريق الخطأ، يُرجى الاتصال بـ https://m.me/ChattySupport"
+
+msgid "Loading..."
+msgstr "جارٍ التحميل..."
+
+msgid "To start new chat, please wait {hours} hours and {minutes} minutes or check how to start right now by clicking this button."
+msgstr "لبدء دردشة جديدة، يرجى الانتظار {hours} ساعات و {minutes} دقيقة أو انظر كيف تبدأ الآن من خلال النقر على هذا الزر."
+
+msgid "Thank you for using Chatty."
+msgstr "شكرًا لاستخدام خدمة تشاتي."
+
+msgid "To start a new chat, please wait {hours} hours and {minutes} minutes, or answer a survey."
+msgstr "لبدء دردشة جديدة، يرجى الانتظار {hours} ساعات و{minutes} دقيقة، أو قم بالإجابة على استبيان."
+
+msgid"The survey should only take a couple of minutes of your time."
+msgstr"يستغرق الاستبيان بضع دقائق فقط من وقتك."
+
+msgid "Now You can start a new chat!"
+msgstr "الآن يمكنك بدء دردشة جديدة!"
+
+msgid "If you like Chatty, please share."
+msgstr "إذا أعجبتك خدمة تشاتي، يرجى مشاركتها."
+
+msgid "Answer a Survey"
+msgstr "اجب على استبيان"
+
+msgid "Check"
+msgstr " انظر"
+
+msgid "Report"
+msgstr "إبلاغ"
+
+#: model.py:431 model.py:459
+msgid "Interrupt searching"
+msgstr "إلغاء عملية البحث"
+
+#: model.py:546
+msgid "New Chat"
+msgstr "دردشة جديدة"
+
+msgid "How To Start a New Chat"
+msgstr "كيفية بدء دردشة جديدة"
+
+#: model.py:278 model.py:306 model.py:342
+msgid "Find new partner"
+msgstr "ابحث عن شخص غريب جديد"
+
+#: model.py:312 model.py:349
+msgid "Select language"
+msgstr "اختر اللغة "
+
+#: chatty/model.py:485
+msgid "End Chat"
+msgstr "إنهاء الدردشة"
+
+#: chatty/model.py:486
+msgid "End"
+msgstr "إنهاء الدردشة"
+
+#: chatty/model.py:500
+msgid "Changes saved."
+msgstr "تم حفظ التغييرات"
+
+msgid "Close"
+msgstr "أغلق الصفحة"
+
+msgid "Men"
+msgstr "رجالي"
+
+msgid "Women"
+msgstr "نساء"
+
+msgid "I want to find..."
+msgstr "أريد أن أجد..."
+
+msgid "Languages"
+msgstr "اللغات"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Discovery Settings"
+msgstr "إعدادات الاكتشاف"
+
+
+msgid "Share Your Profile"
+msgstr "مشاركة ملفك"
+
+msgid "Send a link to your Facebook profile?"
+msgstr "إرسال رابط ملفك على فيسبوك؟"
+
+msgid "Send"
+msgstr "إرسال"
+
+msgid "Profile shared."
+msgstr "تم مشاركة الملف."
+
+msgid "Shared."
+msgstr "تمت مشاركته."
+
+msgid "View Profile"
+msgstr "عرض الملف"
+
+
+
+msgid ""
+"Not enough points, please purchase more.\n"
+"Selecting a gender preference require points.(10 points per use)"
+msgstr ""
+"لا يوجد ما يكفي من النقاط، لذا يُرجى شراء المزيد منها.\n"
+"تحديد الجنس المفضل يتطلب نقاطاً.(10 نقاط لكل مستخدم)"
+
+msgid "Purchase Points"
+msgstr "شراء نقاط"
+
+msgid "Purchase"
+msgstr "شراء"
+
+msgid "My Points"
+msgstr "نقاطي"
+
+msgid "By purchasing points, you can select the gender of the people you want to talk with."
+msgstr "يمكنك تحديد جنس الأشخاص الذين تريد التحدث معهم عن طريق شراء نقاط."
+
+msgid "Your payment failed. Please try again later. If the problem persists, please contact us at https://m.me/ChattySupport"
+msgstr "يمكنك تحديد جنس الأشخاص الذين تريد التحدث معهم عن طريق شراء نقاط."
+
+msgid "Payment failed due to expiration of token. Please refresh your web browser and then try again."
+msgstr "فشلت عملية الدفع الخاصة بك، وذلك بسبب انتهاء صلاحية الرمز المميز، فيرجى تحديث مستعرض الويب لديك والمحاولة مرة أخرى."
+
+msgid ""
+"Please check whether the credit card information that you entered is incorrect, or your credit limit has been exceeded.\n"
+"If there are no mistakes in your input, and the same error still appears after you have tried again, then please contact your credit card company."
+msgstr ""
+"يُرجى منك التحقق من كون معلومات البطاقة الائتمانية التي قُمت بإدخالها غير صحيحة، أو من كونك قد تجاوزت حد الائتمان.\n"
+"إن لم تكن هناك أية أخطاءٍ في البيانات التي قمت بإدخالها، وظل نفس الخطأ في الظهور بعد قيامك بالمحاولة مرة أخرى، فيُرجى إذاً الاتصال بشركة البطاقة الائتمانية الخاصة بك."

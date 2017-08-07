@@ -1,0 +1,141 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2017-01-31 17:08+JST\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+#: chatty/model.py:253
+msgid "Sending failed. Try it again later."
+msgstr "Sending failed. Try it again later."
+
+msgid "Please sign in with Facebook. We don't post anything to Facebook."
+msgstr "Please log in with Facebook. We don't post anything to Facebook."
+
+#: chatty/model.py:352 chatty/model.py:481
+msgid "This message type is not supported."
+msgstr "This message type is not supported."
+
+#: chatty/model.py:358
+msgid "Select language"
+msgstr "Select language"
+
+#: chatty/model.py:393
+msgid ""
+"You are not chatting with anyone. \n"
+"Do you want to start a new chat with someone new?"
+msgstr ""
+"You are not chatting with anyone. \n"
+"Do you want to start a new chat with someone new?"
+
+#: chatty/model.py:395 chatty/model.py:401 chatty/model.py:407
+#: chatty/model.py:464 chatty/model.py:488
+msgid "New Chat"
+msgstr "New Chat"
+
+#: chatty/model.py:399
+msgid "Welcome to Chatty!"
+msgstr "Welcome to Chatty!"
+
+msgid "LOG IN WITH FACEBOOK"
+msgstr "LOG IN WITH FACEBOOK"
+
+msgid "Chatty is a chat service that you can enjoy communicating with strangers from all over the world safely."
+msgstr "Chatty is a chat service that you can enjoy communicating with strangers from all over the world safely."
+
+#: chatty/model.py:406
+msgid "Do you want to start a new chat?\n"
+"Each other's profile picture will be shared when matched with someone new."
+msgstr "Do you want to start a new chat with someone new?\n"
+"Each other's profile picture will be shared when matched with someone new."
+
+#: chatty/model.py:420
+msgid ""
+"Finding someone you can chat with..."
+msgstr ""
+"Waiting for someone you can chat with...\n"
+
+#: chatty/model.py:423 chatty/model.py:453
+msgid "Interrupt searching"
+msgstr "Cancel searching"
+
+#: chatty/model.py:437
+msgid ""
+"You're now chatting with someone new!\n"
+msgstr ""
+"You're now chatting with someone new!\n"
+
+msgid "Choose 'Menu' from the menu '≡' in the corner or tap the button bellow to terminate your conversation."
+msgstr "Choose 'Menu' from the menu '≡' in the corner to terminate your conversation."
+
+#: chatty/model.py:451
+msgid ""
+"Finding someone new...\n"
+"Want to interrupt searching?"
+msgstr ""
+"Finding someone new...\n"
+"Want to cancel searching?"
+
+#: chatty/model.py:462
+msgid "Finding interrupted."
+msgstr "Searching canceled."
+
+#: chatty/model.py:485
+msgid "End Chat?"
+msgstr "End Chat?"
+
+#: chatty/model.py:485
+msgid "End Chat"
+msgstr "End Chat"
+
+#: chatty/model.py:486
+msgid "End"
+msgstr "End"
+
+#: chatty/model.py:498
+msgid"Chat ended."
+msgstr "Chat ended. "
+
+#: chatty/model.py:500
+msgid "Stranger has disconnected."
+msgstr "Stranger has disconnected."
+
+msgid ""
+"If the person you chatted with was a malicious user,"
+" you can report them via the [Report] button."
+msgstr ""
+"If the person you chatted with was a malicious user,"
+" you can report them via the [Report] button."
+
+msgid "Report"
+msgstr "Report"
+
+#: chatty/model.py:500
+msgid "Changes saved."
+msgstr "Changes saved."
+
+msgid ""
+"Your Chatty account has been suspended"
+" due to malicious activity."
+"If you think this account was suspended incorrectly,"
+" please contact https://m.me/ChattySupport"
+msgstr ""
+"Your Chatty account has been suspended"
+" due to malicious activity."
+"If you think this account was suspended incorrectly,"
+" please contact https://m.me/ChattySupport"
+
+msgid "Share Your Profile"
+msgstr "Share Profile"
+
+msgid "Discovery Settings"
+msgstr "Discovery Settings"
