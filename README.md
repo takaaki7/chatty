@@ -13,11 +13,11 @@ wercker dev --publish 8080
 ```
 
 ##### Facebook developers
-Facebook App settings are created referencing following pages.
+Facebook App settings can be created referencing following pages.
 https://developers.facebook.com/bugs/230322797329131/?hc_location=ufi
 http://qiita.com/nilesflow/items/c4fdf56aa3b89f4bf43b
 
-###Stack
+### Stack
 - bottle
 - sqlalchemy
 - wercker
