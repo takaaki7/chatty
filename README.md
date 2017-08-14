@@ -1,6 +1,11 @@
 # Chatty
 Repository of Facebook bot Chat App [Chatty](https://www.facebook.com/ChattyMessengerBot/)(service has been suspended )
 
+### Feature
+- Users can chat with other users matched randomly.
+- Users can exchange their facebbook profile.
+- Users can set preferences of matching conditions.
+
 ### Get started
 
 ##### Setup wercker.
